@@ -3,7 +3,7 @@
 __pycache__/
 *.pyc
 *.pkl
-*.db
+*.db-*
 data/market_cache/
 data/model_artifacts/
 .pytest_cache/
