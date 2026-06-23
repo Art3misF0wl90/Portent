@@ -8,3 +8,5 @@ data/market_cache/
 data/model_artifacts/
 .pytest_cache/
 .mypy_cache/
+.history/
+
