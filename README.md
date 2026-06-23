@@ -70,10 +70,3 @@ Python · XGBoost · LSTM · FinBERT (sentiment) · yfinance (market data) · Fl
 
 ---
 
-## License
-
-<<<<<<< Updated upstream
-_TBD — add a LICENSE file before making the repository public._****
-=======
-_TBD — add a LICENSE file before making the repository public._
->>>>>>> Stashed changes
